@@ -9,9 +9,12 @@
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjpinto&label=Profile%20views&color=0e75b6&style=flat" alt="jjpinto" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgpinto/)
 
-- ⌨️ Open Source Contributor. 
-  - [GitHub Docs](https://github.com/github/docs/pulls?q=is%3Apr+author%3Acmwilson21) 
+
+- ⌨️ Open Source Contributor 
+  - [GitLab - Level 2](https://gitlab.com/jpinto9391615).
+  - [Quarkus](https://github.com/quarkusio/quarkus).
 
 
 
