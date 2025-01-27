@@ -6,8 +6,8 @@
 
 
 - ⌨️ Open Source Contributor: 
-  - [GitLab - Level 2](https://gitlab.com/jpinto9391615)
   - [Quarkus](https://github.com/quarkusio/quarkus)
+  - [GitLab - Level 2](https://gitlab.com/jpinto9391615)
 
 
 <h3 align="left">Connect with me:</h3>
