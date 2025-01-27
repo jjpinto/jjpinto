@@ -15,16 +15,15 @@
 <a href="https://linkedin.com/in/jorgpinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgpinto" height="30" width="40" /></a>
 </p>
 
-<p>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpinto&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
 [//]: <> This was interesting, played around and it worked fine - I will keep it disabled for now
 [//]: <><!--START_SECTION:badges-->
 [//]: <><!--END_SECTION:badges-->
 
-[//]: <> ---
+---
 [//]: <> This was interesting, played around and it worked fine - I will keep it disabled for now
 [//]: <> It uses .github/workflows
 [//]: <> ### :zap: Recent Activity
