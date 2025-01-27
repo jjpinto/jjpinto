@@ -16,12 +16,13 @@
 </p>
 
 
-[//]: <> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpinto&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpinto&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[//]: <> This was interesting, played around and it worked fine - I will keep it disabled for now
+This was interesting, played around and it worked fine - I will keep it disabled for now
 [//]: <><!--START_SECTION:badges-->
 [//]: <><!--END_SECTION:badges-->
+-->
 
 ---
 [//]: <> This was interesting, played around and it worked fine - I will keep it disabled for now
