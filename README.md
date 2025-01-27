@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
+<h3 align="center">Senior Software Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjpinto&label=Profile%20views&color=0e75b6&style=flat" alt="jjpinto" /> </p>
+
 <td style="text-align:center;"> 
   
 &nbsp; <br>
-[![Profile Views](https://komarev.com/ghpvc/?username=jjpinto?style=for-the-badge&color=green)](https://github.com/jjpinto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgpinto/)
 
 </td>
 
-<h3 align="center">Senior Software Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjpinto&label=Profile%20views&color=0e75b6&style=flat" alt="jjpinto" /> </p>
 
 - ⌨️ Open Source Contributor: 
   - [GitLab - Level 2](https://gitlab.com/jpinto9391615)
