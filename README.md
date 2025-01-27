@@ -1,6 +1,8 @@
-### Hi there 👋
 
-I'm Jorge. Testing readme options :raised_hands: 
+<h3 align="center">Senior Software Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjpinto&label=Profile%20views&color=0e75b6&style=flat" alt="jjpinto" /> </p>
+
 
 🔭 I’m currently working on <abc>
 
