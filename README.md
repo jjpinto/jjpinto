@@ -11,6 +11,17 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpinto&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<td style="text-align:center;"> 
+&nbsp; <br>
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=TEMIR.DEV&style=for-the-badge&up_color=green&up_message=UP&url=https://dtemir.github.io/)](https://dtemir.github.io/)
+[![Visits Badge](https://badges.strrl.dev/visits/jjpinto/jjpinto?style=for-the-badge&color=green)](https://github.com/jjpinto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgpinto/)
+</td>
+
+
+
+
 <!--START_SECTION:badges-->
 [![Generative AI Essentials](https://images.credly.com/size/110x110/images/3962f630-7cb0-4406-9ca4-f690bdcfbdef/image.png)](http://www.credly.com/badges/d5e4f8eb-0aeb-4aeb-8291-7de64296976e "Generative AI Essentials")
 [![AI for Everyone: Master the Basics](https://images.credly.com/size/110x110/images/78186814-c80e-4d45-a30e-04b0a2850345/image.png)](http://www.credly.com/badges/6bb794ff-3129-4ae3-96c0-a4ff7f8630fc "AI for Everyone: Master the Basics")
