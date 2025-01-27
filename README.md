@@ -6,16 +6,17 @@
 - ⌨️ Open Source Contributor. 
   - [GitHub Docs](https://github.com/github/docs/pulls?q=is%3Apr+author%3Acmwilson21) 
 
-
-🔭 I’m currently working on <abc>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpinto&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <td style="text-align:center;"> 
 &nbsp; <br>
 [![Visits Badge](https://badges.strrl.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
 </td>
+
+
+
+🔭 I’m currently working on <abc>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpinto&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
