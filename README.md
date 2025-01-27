@@ -1,9 +1,3 @@
-<td style="text-align:center;"> 
-
-&nbsp; <br>
-[![Visits Badge](https://badges.strrl.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
-</td>
 
 <h3 align="center">Senior Software Engineer</h3>
 
@@ -17,14 +11,11 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpinto&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <td style="text-align:center;"> 
 &nbsp; <br>
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=Hint Coding&style=for-the-badge&up_color=green&up_message=UP&url=https://hintcoding.azurewebsites.net/)]([https://dtemir.github.io/](https://hintcoding.azurewebsites.net/))
-[![Visits Badge](https://badges.strrl.dev/visits/jjpinto/jjpinto?style=for-the-badge&color=green)](https://github.com/jjpinto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgpinto/)
+[![Visits Badge](https://badges.strrl.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
 </td>
-
 
 
 
