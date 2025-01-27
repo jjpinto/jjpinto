@@ -1,10 +1,17 @@
+## About Me
+
+**Jorge Pinto**
+
+I’m a senior software engineer with over 20 years of experience. I specialize in troubleshooting, debugging, and application support. As a tech enthusiast and lifelong learner, I love contributing to open source projects.
+
+
 <h3 align="center">Jorge Pinto - Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjpinto&label=Profile%20views&color=0e75b6&style=flat" alt="jjpinto" /> </p>
 
 - ⌨️ Open Source Contributor: 
   - [GitLab - Level 2](https://gitlab.com/jpinto9391615)
-  - [Quarkus](https://github.com/quarkusio/quarkus).
+  - [Quarkus](https://github.com/quarkusio/quarkus)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
