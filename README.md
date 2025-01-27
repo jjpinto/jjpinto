@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjpinto&label=Profile%20views&color=0e75b6&style=flat" alt="jjpinto" /> </p>
 
+- ⌨️ Open Source Contributor. 
+  - [GitHub Docs](https://github.com/github/docs/pulls?q=is%3Apr+author%3Acmwilson21) 
+
 
 🔭 I’m currently working on <abc>
 
