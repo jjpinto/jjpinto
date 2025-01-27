@@ -6,7 +6,7 @@
 
 
 - ⌨️ Open Source Contributor: 
-  - [Quarkus](https://github.com/quarkusio/quarkus)
+  - [Quarkus - Java Framework]([https://github.com/quarkusio/quarkus](https://github.com/pulls?q=is%3Apr+author%3Ajjpinto+))
   - [GitLab - Level 2](https://gitlab.com/jpinto9391615)
 
 
