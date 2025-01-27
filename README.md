@@ -21,5 +21,6 @@
 
 This was interesting, played around and it worked fine - I will keep it disabled for now
 -->
-<!--START_SECTION:badges-->
-<!--START_SECTION:activity-->
+
+[//]: <> <!--START_SECTION:badges-->
+[//]: <> <!--START_SECTION:activity-->
