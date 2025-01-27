@@ -1,8 +1,8 @@
 <td style="text-align:center;"> 
   
 &nbsp; <br>
-[![Visits Badge](https://badges.strrl.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
+[![Visits Badge](https://badges.strrl.dev/visits/jjpinto/jjpinto?style=for-the-badge&color=green)](https://github.com/jjpinto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgpinto/)
 
 </td>
 
