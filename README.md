@@ -1,3 +1,10 @@
+<td style="text-align:center;"> 
+  
+&nbsp; <br>
+[![Visits Badge](https://badges.strrl.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
+
+</td>
 
 <h3 align="center">Senior Software Engineer</h3>
 
@@ -6,11 +13,6 @@
 - ⌨️ Open Source Contributor. 
   - [GitHub Docs](https://github.com/github/docs/pulls?q=is%3Apr+author%3Acmwilson21) 
 
-<td style="text-align:center;"> 
-&nbsp; <br>
-[![Visits Badge](https://badges.strrl.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
-</td>
 
 
 
