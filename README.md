@@ -14,7 +14,7 @@
 
 <td style="text-align:center;"> 
 &nbsp; <br>
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=TEMIR.DEV&style=for-the-badge&up_color=green&up_message=UP&url=https://dtemir.github.io/)](https://dtemir.github.io/)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=Hint Coding&style=for-the-badge&up_color=green&up_message=UP&url=https://hintcoding.azurewebsites.net/)]([https://dtemir.github.io/](https://hintcoding.azurewebsites.net/))
 [![Visits Badge](https://badges.strrl.dev/visits/jjpinto/jjpinto?style=for-the-badge&color=green)](https://github.com/jjpinto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgpinto/)
 </td>
