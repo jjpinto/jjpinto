@@ -25,8 +25,5 @@ This was interesting, played around and it worked fine - I will keep it disabled
 [//]: <> <!--START_SECTION:badges-->
 [//]: <> <!--END_SECTION:badges-->
 
----
 ### :zap: Recent Activity
-
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
