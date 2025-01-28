@@ -7,7 +7,7 @@
 
 - ⌨️ Open Source Contributor: 
   - [Quarkus - Java Framework](https://github.com/pulls?q=is%3Apr+author%3Ajjpinto)
-  - [GitLab - Level 2]([https://gitlab.com/jpinto9391615](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=all&author_username=jpinto9391615&first_page_size=20))
+  - [GitLab - Level 2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=all&author_username=jpinto9391615&first_page_size=20)
 
 
 <h3 align="left">Connect with me:</h3>
