@@ -5,8 +5,8 @@
 <p>I’m a senior software engineer with over 20 years of experience. I specialize in troubleshooting, debugging, application support, and performance tuning. My expertise spans optimizing database performance and fine-tuning microservices to ensure seamless, high-performing applications. As a tech enthusiast and lifelong learner, I love contributing to open-source projects.</p>
 
 - ⌨️ Open Source Contributor: 
-  - Quarkus - Java Framework
-  - GitLab - Level 2
+  - [Quarkus - Java Framework](https://github.com/pulls?q=is%3Apr+author%3Ajjpinto)
+  - [GitLab - Level 2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=all&author_username=jpinto9391615&first_page_size=20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
